@@ -84,7 +84,7 @@ superbowl <- read_csv("superbowl_ads.csv")
 
 ```
 
-*REPLACE THIS TEXT WITH YOUR ANSWER*
+
 
 ### (b) Create 3 histograms to explore the distribution of `view_count`: (i) one with 2 bins, (ii) one with 8 bins, and (iii) one with 50 bins; make sure to specify meaningful axis labels where appropriate. Which of these histograms is most appropriate to describe the distribution of `view_count`? Why? Write a few sentences describing the distribution based on the histogram you chose as most appropriate.
 
